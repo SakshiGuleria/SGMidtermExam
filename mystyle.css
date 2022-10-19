@@ -1,0 +1,429 @@
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #FFFFFF;
+}
+
+.navbar{
+position: absolute;
+width: 1440px;
+height: 123px;
+left: 0px;
+top: 0px;
+}
+
+.logo{
+position: absolute;
+width: 118px;
+height: 98px;
+left: 40px;
+top: 14px;
+}
+
+.prod{
+position: absolute;
+width: 136px;
+height: 39px;
+left: 961px;
+top: 27px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+
+.details{
+position: absolute;
+width: 104px;
+height: 39px;
+left: 1189px;
+top: 27px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+
+.sneakers{
+position: absolute;
+width: 258px;
+height: 58px;
+left: 572px;
+top: 58px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
+}
+
+#sneak1{
+position: absolute;
+width: 162px;
+height: 187px;
+left: 50px;
+top: 170px;
+}
+
+#sneak2{
+position: absolute;
+width: 162px;
+height: 187px;
+left: 533px;
+top: 170px;
+}
+
+#sneak3{
+    position: absolute;
+    width: 162px;
+    height: 187px;
+    left: 1016px;
+    top: 170px;
+}
+
+#sneak4{
+position: absolute;
+width: 162px;
+height: 187px;
+left: 50px;
+top: 595px;
+}
+
+#sneak5{
+position: absolute;
+width: 162px;
+height: 187px;
+left: 533px;
+top: 595px;
+}
+
+#sneak6{
+position: absolute;
+width: 162px;
+height: 187px;
+left: 1016px;
+top: 595px;
+}
+
+#d1{
+    position: absolute;
+    width: 188px;
+    height: 117px;
+    left: 232px;
+    top: 209px;  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+#size1{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 50px;
+    top: 377px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+
+#review1{
+position: absolute;
+width: 344px;
+height: 39px;
+left: 62px;
+top: 432px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+
+#d2{
+    position: absolute;
+    width: 194px;
+    height: 117px;
+    left: 711px;
+    top: 209px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+#size2{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 536px;
+    top: 377px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+
+#review2{
+    position: absolute;
+    width: 317px;
+    height: 39px;
+    left: 561px;
+    top: 432px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+#d3{
+    position: absolute;
+    width: 204px;
+    height: 117px;
+    left: 1189px;
+    top: 201px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+#size3{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 1016px;
+    top: 377px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+#review3{
+    position: absolute;
+    width: 242px;
+    height: 39px;
+    left: 1079px;
+    top: 432px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+#d4{
+    position: absolute;
+    width: 187px;
+    height: 117px;
+    left: 220px;
+    top: 630px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+#size4{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 48px;
+    top: 813px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+#review4{
+    position: absolute;
+    width: 351px;
+    height: 39px;
+    left: 62px;
+    top: 870px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px; 
+    color: #000000;
+}
+
+#d5{
+    position: absolute;
+    width: 209px;
+    height: 117px;
+    left: 712px;
+    top: 630px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+#size5{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 538px;
+    top: 813px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+#review5{
+position: absolute;
+width: 311px;
+height: 39px;
+left: 555px;
+top: 870px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+
+#d6{
+    position: absolute;
+    width: 209px;
+    height: 117px;
+    left: 1188px;
+    top: 630px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+#size6{
+    position: absolute;
+    width: 368px;
+    height: 35px;
+    left: 1017px;
+    top: 813px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+#review6{
+    position: absolute;
+width: 323px;
+height: 39px;
+left: 1051px;
+top: 870px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+
+#img{
+    position: absolute;
+    width: 489.02px;
+    height: 398.04px;
+    left: 169.3px;
+    top: 249.47px;
+}
+
+#dt{
+    position: absolute;
+    width: 575.7px;
+    height: 358px;
+    left: 718.73px;
+    top: 332px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+}
+
+#des{
+    position: absolute;
+    width: 575.7px;
+    height: 358px;
+    left: 718.73px;
+    top: 332px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 53px;
+    
+    color: #000000;
+}
+
+#size{
+    position: absolute;
+    width: 1110.87px;
+    height: 74.5px;
+    left: 228.13px;
+    top: 715px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    
+    color: #000000;
+}
+
+#review{
+    position: absolute;
+    width: 572.7px;
+    height: 111px;
+    left: 228.13px;
+    top: 789px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 53px;
+    
+    color: #000000;
+}
